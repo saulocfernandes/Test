@@ -1,0 +1,80 @@
+[
+    {
+        "Mês/Ano": "Mai/2024",
+        "IPCA": 0.46,
+        "IGPM": 0.89,
+        "INPC": 0.43
+    },
+    {
+        "Mês/Ano": "Jun/2024",
+        "IPCA": 0.45,
+        "IGPM": 0.81,
+        "INPC": 0.43
+    },
+    {
+        "Mês/Ano": "Jul/2024",
+        "IPCA": 0.24,
+        "IGPM": 0.61,
+        "INPC": 0.22
+    },
+    {
+        "Mês/Ano": "Ago/2024",
+        "IPCA": 0.23,
+        "IGPM": 0.29,
+        "INPC": 0.28
+    },
+    {
+        "Mês/Ano": "Set/2024",
+        "IPCA": 0.26,
+        "IGPM": 0.62,
+        "INPC": 0.35
+    },
+    {
+        "Mês/Ano": "Out/2024",
+        "IPCA": 0.42,
+        "IGPM": 1.52,
+        "INPC": 0.38
+    },
+    {
+        "Mês/Ano": "Nov/2024",
+        "IPCA": 0.28,
+        "IGPM": 1.3,
+        "INPC": 0.37
+    },
+    {
+        "Mês/Ano": "Dez/2024",
+        "IPCA": 0.56,
+        "IGPM": 0.94,
+        "INPC": 0.65
+    },
+    {
+        "Mês/Ano": "Jan/2025",
+        "IPCA": 0.16,
+        "IGPM": 0.27,
+        "INPC": 0.25
+    },
+    {
+        "Mês/Ano": "Fev/2025",
+        "IPCA": 1.31,
+        "IGPM": 1.06,
+        "INPC": 1.35
+    },
+    {
+        "Mês/Ano": "Mar/2025",
+        "IPCA": 0.56,
+        "IGPM": -0.34,
+        "INPC": 0.51
+    },
+    {
+        "Mês/Ano": "Abr/2025",
+        "IPCA": 0.43,
+        "IGPM": 0.24,
+        "INPC": 0.48
+    },
+    {
+        "Mês/Ano": "Mai/2025",
+        "IPCA": 0.26,
+        "IGPM": -0.49,
+        "INPC": 0.35
+    }
+]
